@@ -42,3 +42,14 @@ As a user of the {{site.data.keyword.cloud_notm}} you and your customers might n
 * {{site.data.keyword.atracker_full_notm}} - Routes {{site.data.keyword.cloud_notm}} platform activity tracking events.
 
 You can also send logs and metrics to {{site.data.keyword.cloud_notm}} Observability solutions from your environments and applications to be visualized and routed.
+
+
+
+
+The following are examples of solution architectures that use the Observability services for service management in IBM Cloud:
+
+- [Three tier application on VMware Cloud Founction as a Service across Multi Zone Region.](/docs/vcfaas-on-mzr?topic=vcfaas-on-mzr-web-app-multi-zone)
+
+- [IBM Power® Virtual Server resiliency on AIX](/docs/pattern-pvs-aix-resiliency?topic=pattern-pvs-aix-resiliency-power-virtual-server-on-AIX)
+
+- [IBM Cloud Essential Security and Observability Services](/docs/deployable-reference-architectures?topic=deployable-reference-architectures-core-security-services-pattern)

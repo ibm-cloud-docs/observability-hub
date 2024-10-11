@@ -19,17 +19,17 @@ toc:
       id: reference
       links:
       - link:
-          label: IBM Cloud Logs docs
+          label: IBM Cloud Logs documentation
           href: https://cloud.ibm.com/docs/cloud-logs
       - link:
-          label: IBM Cloud Monitoring docs
+          label: IBM Cloud Monitoring documentation
           href: https://cloud.ibm.com/docs/monitoring
       - link:
-          label: IBM Cloud Activity Tracking Event Routing docs
+          label: IBM Cloud Activity Tracking Event Routing documentation
           href: https://cloud.ibm.com/docs/atracker
       - link:
-          label: IBM Cloud Logs Routing docs
+          label: IBM Cloud Logs Routing documentation
           href: https://cloud.ibm.com/docs/logs-router
       - link:
-          label: IBM Cloud Metrics Routing docs
+          label: IBM Cloud Metrics Routing documentation
           href: https://cloud.ibm.com/docs/metrics-router

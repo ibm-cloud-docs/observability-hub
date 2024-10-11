@@ -30,7 +30,8 @@
           "href": "/docs/metrics-router"
         }
       ]
-    },
+    }
+    ],
     "section_architectures": [
       {
         "title": "IBM Cloud Essentials Security and Observability Services",

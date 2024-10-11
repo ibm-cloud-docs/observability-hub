@@ -1,0 +1,17 @@
+toc:
+  properties:
+    subcollection: observability-hub
+    href: /docs/observability-hub
+    path: observability-hub
+    audience: solution
+    category: solution_docs
+    content-type: solution
+    industry: SoftwareAndPlatformApplications
+    use-case: Observability
+    description: Troubleshoot apps and services, identify threats, detect performance issues, trigger alerts and more.
+    label: Observability services
+  entries:
+  - navgroup:
+      id: overview
+      topics:
+      - overview.md

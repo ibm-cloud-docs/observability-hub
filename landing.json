@@ -1,0 +1,35 @@
+{
+    "version": 2,
+    "title": "Observability",
+    "introduction": "Discover IBM Cloud observability services.",
+    "product_page": "https://ibm.com/cloud/solution-page",
+    "deployment_url": "https://cloud.ibm.com/catalog/content/url/to/deploy",
+    "section_topics": {
+      "links": [
+        {
+          "title": "Observability services overview",
+          "href": "/docs/acme-test-solutions"
+        },
+        {
+          "title": "IBM Cloud Logs",
+          "href": "/docs/cloud-logs"
+        },
+        {
+          "title": "IBM Cloud Monitoring",
+          "href": "/docs/monitoring"
+        },
+        {
+          "title": "IBM Cloud Activity Tracker Event Routing",
+          "href": "/docs/atracker"
+        },
+        {
+          "title": "IBM Cloud Logs Routing",
+          "href": "docs/logs-router"
+        },
+        {
+          "title": "IBM Cloud Metrics Routing",
+          "href": "/docs/metrics-router"
+        }
+      ]
+    }
+  }

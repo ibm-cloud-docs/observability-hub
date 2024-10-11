@@ -30,5 +30,23 @@
           "href": "/docs/metrics-router"
         }
       ]
-    }
+    },
+    "section_architectures": [
+      {
+        "title": "IBM Cloud Essentials Security and Observability Services",
+        "href": "/docs/deployable-reference-architectures?topic=deployable-reference-architectures-core-security-services-pattern",
+        "deployable": false
+      },
+      {
+        "title": "IBM Power Virtual Server resiliency on AIX",
+        "href": "/docs/pattern-pvs-aix-resiliency?topic=pattern-pvs-aix-resiliency-power-virtual-server-on-AIX",
+        "deployable": false
+      },
+      {
+        "title": "Three tier application on VMware Cloud Founction as a Service across Multi Zone Region",
+        "href": "/docs/vcfaas-on-mzr?topic=vcfaas-on-mzr-web-app-multi-zone",
+        "deployable": false
+      }
+      }
+    ]
   }

@@ -1,8 +1,8 @@
 {
     "version": 2,
     "title": "Observability",
-    "introduction": "Discover IBM Cloud observability services.",
-    "deployment_url": "https://cloud.ibm.com/catalog?category=logging_monitoring",
+    "introduction": "Troubleshoot apps and services, identify threats, detect performance issues, trigger alerts and more.",
+    "deployment_url": "https://test.cloud.ibm.com/observability/overview",
     "section_topics": {
       "links": [
         {

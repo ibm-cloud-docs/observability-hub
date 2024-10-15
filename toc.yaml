@@ -17,19 +17,22 @@ toc:
       - overview.md
   - navgroup:
       id: reference
-      links:
-      - link:
-          label: IBM Cloud Logs documentation
-          href: https://cloud.ibm.com/docs/cloud-logs
-      - link:
-          label: IBM Cloud Monitoring documentation
-          href: https://cloud.ibm.com/docs/monitoring
-      - link:
-          label: IBM Cloud Activity Tracking Event Routing documentation
-          href: https://cloud.ibm.com/docs/atracker
-      - link:
-          label: IBM Cloud Logs Routing documentation
-          href: https://cloud.ibm.com/docs/logs-router
-      - link:
-          label: IBM Cloud Metrics Routing documentation
-          href: https://cloud.ibm.com/docs/metrics-router
+      topics:
+      - topicgroup:
+          label: Related product guides
+          links:
+          - link:
+              label: IBM Cloud Logs documentation
+              href: https://cloud.ibm.com/docs/cloud-logs
+          - link:
+              label: IBM Cloud Monitoring documentation
+              href: https://cloud.ibm.com/docs/monitoring
+          - link:
+              label: IBM Cloud Activity Tracking Event Routing documentation
+              href: https://cloud.ibm.com/docs/atracker
+          - link:
+              label: IBM Cloud Logs Routing documentation
+              href: https://cloud.ibm.com/docs/logs-router
+          - link:
+              label: IBM Cloud Metrics Routing documentation
+              href: https://cloud.ibm.com/docs/metrics-router

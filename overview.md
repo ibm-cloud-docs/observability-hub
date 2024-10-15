@@ -2,11 +2,11 @@
 
 copyright:
   years:  2024
-lastupdated: "2024-10-14"
+lastupdated: "2024-10-15"
 
 keywords:
 
-subcollection: observability-ibm
+subcollection: observability-hub
 ---
 
 {{site.data.keyword.attribute-definition-list}}

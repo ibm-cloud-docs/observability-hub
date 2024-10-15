@@ -2,7 +2,7 @@
     "version": 2,
     "title": "Observability",
     "introduction": "Troubleshoot apps and services, identify threats, detect performance issues, trigger alerts and more.",
-    "deployment_url": "https://test.cloud.ibm.com/observability/overview",
+    "deployment_url": "/observability/overview",
     "section_topics": {
       "links": [
         {

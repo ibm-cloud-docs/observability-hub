@@ -15,9 +15,23 @@ toc:
       id: overview
       topics:
       - overview.md
+      - deployable-architecture.md
+      - topic: release-notes.md
+        navtitle: Release notes
+  - navgroup:
+      id: architecture
+      topics:
+      - include: ../deployable-reference-architectures/terraform-ibm-observability-da/reference-architecture-observability.md
+        navtitle: Observability Deployable Architecture
   - navgroup:
       id: reference
       topics:
+      - topicgroup:
+          label: Your responsibilities
+          links:
+          - link:
+                label: Responsibilities for the deployable architecture
+                href: https://cloud.ibm.com/docs/secure-enterprise?topic=secure-enterprise-responsibilities-deployable-architectures
       - topicgroup:
           label: Related product guides
           links:
@@ -36,3 +50,11 @@ toc:
           - link:
               label: IBM Cloud Metrics Routing documentation
               href: https://cloud.ibm.com/docs/metrics-router
+  - navgroup:
+      id: help
+      topics:
+      - topicgroup:
+          label: Troubleshooting
+          topics:
+          - topic: support.md
+            navtitle: Getting help and support

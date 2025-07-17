@@ -44,7 +44,7 @@
       },
       {
         "title": "Three tier application on VMware Cloud Founction as a Service across Multi Zone Region",
-        "href": "/docs/vcfaas-on-mzr?topic=vcfaas-on-mzr-web-app-multi-zone",
+        "href": "/docs/vcfaas-on-mzr?topic=vcfaas-on-mzr-web-app-multizone",
         "deployable": false
       }
     ]

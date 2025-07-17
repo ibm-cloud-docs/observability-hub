@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years:  2024
-lastupdated: "2024-10-15"
+  years:  2025
+lastupdated: "2025-07-17"
 
 keywords:
 
@@ -55,7 +55,7 @@ You can also send logs and metrics to {{site.data.keyword.cloud_notm}} Observabi
 
 The following are examples of solution architectures that use the Observability services for service management in IBM Cloud:
 
-- [Three tier application on VMware Cloud Founction as a Service across Multi Zone Region.](/docs/vcfaas-on-mzr?topic=vcfaas-on-mzr-web-app-multi-zone)
+- [Three tier application on VMware Cloud Founction as a Service across Multi Zone Region.](/docs/vcfaas-on-mzr?topic=vcfaas-on-mzr-web-app-multizone)
 
 - [IBM Power® Virtual Server resiliency on AIX](/docs/pattern-pvs-aix-resiliency?topic=pattern-pvs-aix-resiliency-power-virtual-server-on-AIX)
 

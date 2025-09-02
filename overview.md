@@ -2,7 +2,7 @@
 
 copyright:
   years:  2025
-lastupdated: "2025-07-17"
+lastupdated: "2025-09-02"
 
 keywords:
 
@@ -59,4 +59,4 @@ The following are examples of solution architectures that use the Observability 
 
 - [IBM Power® Virtual Server resiliency on AIX](/docs/pattern-pvs-aix-resiliency?topic=pattern-pvs-aix-resiliency-power-virtual-server-on-AIX)
 
-- [IBM Cloud Essential Security and Observability Services](/docs/deployable-reference-architectures?topic=deployable-reference-architectures-core-security-services-pattern)
+- [Cloud foundation for security and observability](/docs/deployable-reference-architectures?topic=deployable-reference-architectures-core-security-services-pattern)

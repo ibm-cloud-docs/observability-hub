@@ -3,4 +3,5 @@ keyword:
     Cloud Automation for Observability
   os:
     Observability services
-
+  agent:
+    Logging agent

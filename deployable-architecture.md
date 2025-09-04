@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years:  2024
-lastupdated: "2024-12-16"
+  years:  2025
+lastupdated: "2025-09-04"
 
 keywords:
 
@@ -22,7 +22,7 @@ IBM Cloud Observability services are available as a deployable architecture call
 
 Cloud Automation for Observability is a preconfigured set of infrastructure as code (IaC) assets that is deployed and configured based on recommended best practices. This architecture lets your team efficiently deploy and manage your Observability services environment. This architecture simplifies the deployment and configuration of the Observability service that provide you the visibility into applications, services and the activity in your account.
 
-## Proviosning Observability instances
+## Provisioning Observability instances
 {: #cloud-automation-observability-instances}
 
 This deployable architecture provisions the following Observability instances:

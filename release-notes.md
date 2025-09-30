@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years:  2024
-lastupdated: "2024-12-16"
+  years:  2025
+lastupdated: "2025-09-30"
 
 keywords:
 
@@ -22,4 +22,4 @@ Use these release notes to learn about the latest updates to the Observability d
 {: release-note}
 
 Observability is available as a deployable architecture for use in projects 
-:   Cloud automation for Observability by using {{site.data.keyword.cloud_notm}} Projects is now available. By using the *Cloud Automation for Observability* deployable architecture from the {{site.data.keyword.cloud_notm}} catalog, you can take advantage of automation through {{site.data.keyword.cloud_notm}} Projects to configure, deploy, and monitor your resources deployments by using DevOps best practices. For more information, see [Working with the Observability deployable architecture](/docs/observability-hub?topic=observability-hub-deployable-architecture). 
+:   Cloud foundation for security and observability by using {{site.data.keyword.cloud_notm}} Projects is now available. By using the *Cloud foundation for security and observability* deployable architecture from the {{site.data.keyword.cloud_notm}} catalog, you can take advantage of automation through {{site.data.keyword.cloud_notm}} Projects to configure, deploy, and monitor your resources deployments by using DevOps best practices. For more information, see [Working with the Observability deployable architecture](/docs/observability-hub?topic=observability-hub-deployable-architecture). 

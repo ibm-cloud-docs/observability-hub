@@ -2,7 +2,7 @@
 
 copyright:
   years:  2025
-lastupdated: "2025-09-04"
+lastupdated: "2025-09-30"
 
 keywords:
 
@@ -14,13 +14,13 @@ subcollection: observability-hub
 # Working with the Observability deployable architecture
 {: #deployable-architecture}
 
-IBM Cloud Observability services are available as a deployable architecture called "Cloud Automation for Observability". The "Cloud Automation for Observability" deployable architecture can be used as a building block with other services. Observability services deployment can be automated using {{site.data.keyword.cloud_notm}} Projects. {{site.data.keyword.cloud_notm}} Projects manages related resources and deployments across accounts, embracing an Infrastructure as Code (IaC) approach to deployments. 
+IBM Cloud Observability services are available as a deployable architecture called "Cloud foundation for security and observability". The "Cloud foundation for security and observability" deployable architecture can be used as a building block with other services. Observability services deployment can be automated using {{site.data.keyword.cloud_notm}} Projects. {{site.data.keyword.cloud_notm}} Projects manages related resources and deployments across accounts, embracing an Infrastructure as Code (IaC) approach to deployments. 
 {: shortdesc}
 
-## What is Cloud Automation for Observability?
+## What is Cloud foundation for security and observability?
 {: #cloud-automation-observability}
 
-Cloud Automation for Observability is a preconfigured set of infrastructure as code (IaC) assets that is deployed and configured based on recommended best practices. This architecture lets your team efficiently deploy and manage your Observability services environment. This architecture simplifies the deployment and configuration of the Observability service that provide you the visibility into applications, services and the activity in your account.
+Cloud foundation for security and observability is a preconfigured set of infrastructure as code (IaC) assets that is deployed and configured based on recommended best practices. This architecture lets your team efficiently deploy and manage your Observability services environment. This architecture simplifies the deployment and configuration of the Observability service that provide you the visibility into applications, services and the activity in your account.
 
 ## Provisioning Observability instances
 {: #cloud-automation-observability-instances}
@@ -54,11 +54,11 @@ Integrate with {{site.data.keyword.en_full_notm}}: {{site.data.keyword.logs_full
 
 Configure {{site.data.keyword.logs_full_notm}} policies
  
-## Deploying Cloud Automation for Observability using IBM Cloud Projects
+## Deploying Cloud foundation for security and observability using IBM Cloud Projects
 {: #deploy-resources}
 
-1. From the {{site.data.keyword.cloud_notm}} catalog, search for *Cloud Automation for Observability*.
-2. Add *Cloud Automation for Observability* to an existing project or create a project.
+1. From the {{site.data.keyword.cloud_notm}} catalog, search for *Cloud foundation for security and observability*.
+2. Add *Cloud foundation for security and observability* to an existing project or create a project.
 3. Depending on your use case, you can refer to the following guidance for information about configuring your architecture or building more comprehensive solutions:
     - [Configure](/docs/secure-enterprise?topic=secure-enterprise-config-project) and [deploy](/docs/secure-enterprise?topic=secure-enterprise-deploy-project) from your project.
     - You can [stack deployable architectures](/docs/secure-enterprise?topic=secure-enterprise-config-stack) together in a project to create a robust end-to-end solution architecture. You don't need to code Terraform to connect the member deployable architectures within the stack. As you configure input values in a member deployable architecture, you can reference inputs or outputs from another member to link the deployable architectures together. After you deploy the deployable architectures in your stack, you can add the stack to a private catalog to easily share it with others in your organization.
